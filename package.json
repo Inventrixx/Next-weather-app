@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Inventrixx/next-weather-app/issues"
   },
-  "homepage": "https://github.com/Inventrixx/next-weather-app#readme"
+  "homepage": "https://github.com/Inventrixx/next-weather-app#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
 }
